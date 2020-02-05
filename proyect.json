@@ -3,6 +3,8 @@
     {
         "codigo": "PA-ACADEMIA-LT",
         "nombre": "Academia Latina de Panamá",
-        "server": "https://acreditacion.ulatina.edu.pa/"
+        "server": "https://acreditacion.ulatina.edu.pa/",
+        "color": "#000",
+        "imagen": "http://administrativo.academialatina.edu.pa/assets/galeria/logo.png"
     }
 ]
